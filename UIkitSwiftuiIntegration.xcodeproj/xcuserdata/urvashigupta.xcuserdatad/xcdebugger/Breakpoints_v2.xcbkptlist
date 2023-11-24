@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0BDA0FA2-6ACA-41C6-8808-BCB257CC2D77"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D245C67-D121-4AAC-BF76-383D34308A58"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIkitSwiftuiIntegration/UIKitSampleSubView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "valueChanged(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "72659CBC-8130-4AB8-949D-1FAE141687B1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIkitSwiftuiIntegration/UIKitToSwiftUISubView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "updateUIView(_:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "72659CBC-8130-4AB8-949D-1FAE141687B1 - 7c998a4d33c25f20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIkitSwiftuiIntegration.UIKitToSwiftUISubView.updateUIView(_: UIkitSwiftuiIntegration.UIKitSampleSubView, context: SwiftUI.UIViewRepresentableContext&lt;UIkitSwiftuiIntegration.UIKitToSwiftUISubView&gt;) -&gt; ()"
+                  moduleName = "UIkitSwiftuiIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/UIkitSwiftuiIntegration/UIkitSwiftuiIntegration/UIKitToSwiftUISubView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "409">
+               </Location>
+               <Location
+                  uuid = "72659CBC-8130-4AB8-949D-1FAE141687B1 - 7c998a4d33c25f20"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIkitSwiftuiIntegration.UIKitToSwiftUISubView.updateUIView(_: UIkitSwiftuiIntegration.UIKitSampleSubView, context: SwiftUI.UIViewRepresentableContext&lt;UIkitSwiftuiIntegration.UIKitToSwiftUISubView&gt;) -&gt; ()"
+                  moduleName = "UIkitSwiftuiIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/UIkitSwiftuiIntegration/UIkitSwiftuiIntegration/UIKitToSwiftUISubView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "549">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0851D35B-46F1-49B7-A78F-FE3BDC6A9FC6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIkitSwiftuiIntegration/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "0851D35B-46F1-49B7-A78F-FE3BDC6A9FC6 - ff04ff6c9edba0ef"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIkitSwiftuiIntegration.ContentView.body.getter : some"
+                  moduleName = "UIkitSwiftuiIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/UIkitSwiftuiIntegration/UIkitSwiftuiIntegration/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "2309">
+               </Location>
+               <Location
+                  uuid = "0851D35B-46F1-49B7-A78F-FE3BDC6A9FC6 - 52efa048498bef04"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Bool, Swift.Bool) -&gt; () in UIkitSwiftuiIntegration.ContentView.body.getter : some"
+                  moduleName = "UIkitSwiftuiIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/UIkitSwiftuiIntegration/UIkitSwiftuiIntegration/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "0851D35B-46F1-49B7-A78F-FE3BDC6A9FC6 - ff04ff6c9edba02d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIkitSwiftuiIntegration.ContentView.body.getter : some"
+                  moduleName = "UIkitSwiftuiIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/UIkitSwiftuiIntegration/UIkitSwiftuiIntegration/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "2392">
+               </Location>
+               <Location
+                  uuid = "0851D35B-46F1-49B7-A78F-FE3BDC6A9FC6 - 52efa048498bef42"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Bool, Swift.Bool) -&gt; () in UIkitSwiftuiIntegration.ContentView.body.getter : some"
+                  moduleName = "UIkitSwiftuiIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/UIkitSwiftuiIntegration/UIkitSwiftuiIntegration/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "0851D35B-46F1-49B7-A78F-FE3BDC6A9FC6 - ff04ff6c9edba02d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIkitSwiftuiIntegration.ContentView.body.getter : some"
+                  moduleName = "UIkitSwiftuiIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/UIkitSwiftuiIntegration/UIkitSwiftuiIntegration/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "2382">
+               </Location>
+               <Location
+                  uuid = "0851D35B-46F1-49B7-A78F-FE3BDC6A9FC6 - ff04ff6c9edba125"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIkitSwiftuiIntegration.ContentView.body.getter : some"
+                  moduleName = "UIkitSwiftuiIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/UIkitSwiftuiIntegration/UIkitSwiftuiIntegration/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "2566">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A567790D-8CDA-4C72-A6EF-E8381A83A202"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIkitSwiftuiIntegration/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "updateEmailBtnTapped(email:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "64611CF6-BE61-446D-8DE1-724F8704E55C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIkitSwiftuiIntegration/UIKitToSwiftUISubView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "updateUIView(_:context:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "64611CF6-BE61-446D-8DE1-724F8704E55C - 7c998a4d33c25f66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIkitSwiftuiIntegration.UIKitToSwiftUISubView.updateUIView(_: UIkitSwiftuiIntegration.UIKitSampleSubView, context: SwiftUI.UIViewRepresentableContext&lt;UIkitSwiftuiIntegration.UIKitToSwiftUISubView&gt;) -&gt; ()"
+                  moduleName = "UIkitSwiftuiIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/UIkitSwiftuiIntegration/UIkitSwiftuiIntegration/UIKitToSwiftUISubView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "326">
+               </Location>
+               <Location
+                  uuid = "64611CF6-BE61-446D-8DE1-724F8704E55C - 7c998a4d33c25f66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "UIkitSwiftuiIntegration.UIKitToSwiftUISubView.updateUIView(_: UIkitSwiftuiIntegration.UIKitSampleSubView, context: SwiftUI.UIViewRepresentableContext&lt;UIkitSwiftuiIntegration.UIKitToSwiftUISubView&gt;) -&gt; ()"
+                  moduleName = "UIkitSwiftuiIntegration"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/urvashigupta/Desktop/Developer/UIkitSwiftuiIntegration/UIkitSwiftuiIntegration/UIKitToSwiftUISubView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "271">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "43CDFC44-31AB-4D53-89C1-919EEB2B80F4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "UIkitSwiftuiIntegration/UIKitToSwiftUISubView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "didChangeToggleValue(isOn:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

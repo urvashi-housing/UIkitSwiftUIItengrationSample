@@ -13,6 +13,14 @@
 		C6F873192B0C7E050000E482 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6F873172B0C7E050000E482 /* Main.storyboard */; };
 		C6F8731B2B0C7E060000E482 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C6F8731A2B0C7E060000E482 /* Assets.xcassets */; };
 		C6F8731E2B0C7E060000E482 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C6F8731C2B0C7E060000E482 /* LaunchScreen.storyboard */; };
+		C6F873262B0C7E410000E482 /* SwiftuiSubView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F873252B0C7E410000E482 /* SwiftuiSubView.swift */; };
+		C6F873292B0C8CE20000E482 /* LoginScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F873282B0C8CE20000E482 /* LoginScreen.swift */; };
+		C6F8732B2B0C8D780000E482 /* LoginModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F8732A2B0C8D780000E482 /* LoginModel.swift */; };
+		C6F8732D2B0C959E0000E482 /* ImagePicker.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F8732C2B0C959E0000E482 /* ImagePicker.swift */; };
+		C6F8732F2B0C97030000E482 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F8732E2B0C97030000E482 /* ContentView.swift */; };
+		C6F873312B0CAE1B0000E482 /* UIKitSampleSubView.xib in Resources */ = {isa = PBXBuildFile; fileRef = C6F873302B0CAE1B0000E482 /* UIKitSampleSubView.xib */; };
+		C6F873332B0CAEBD0000E482 /* UIKitToSwiftUISubView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F873322B0CAEBD0000E482 /* UIKitToSwiftUISubView.swift */; };
+		C6F873352B0CAFB90000E482 /* UIKitSampleSubView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C6F873342B0CAFB90000E482 /* UIKitSampleSubView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +32,14 @@
 		C6F8731A2B0C7E060000E482 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C6F8731D2B0C7E060000E482 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C6F8731F2B0C7E060000E482 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C6F873252B0C7E410000E482 /* SwiftuiSubView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftuiSubView.swift; sourceTree = "<group>"; };
+		C6F873282B0C8CE20000E482 /* LoginScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginScreen.swift; sourceTree = "<group>"; };
+		C6F8732A2B0C8D780000E482 /* LoginModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginModel.swift; sourceTree = "<group>"; };
+		C6F8732C2B0C959E0000E482 /* ImagePicker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagePicker.swift; sourceTree = "<group>"; };
+		C6F8732E2B0C97030000E482 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C6F873302B0CAE1B0000E482 /* UIKitSampleSubView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UIKitSampleSubView.xib; sourceTree = "<group>"; };
+		C6F873322B0CAEBD0000E482 /* UIKitToSwiftUISubView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitToSwiftUISubView.swift; sourceTree = "<group>"; };
+		C6F873342B0CAFB90000E482 /* UIKitSampleSubView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIKitSampleSubView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +75,14 @@
 				C6F873112B0C7E040000E482 /* AppDelegate.swift */,
 				C6F873132B0C7E040000E482 /* SceneDelegate.swift */,
 				C6F873152B0C7E040000E482 /* ViewController.swift */,
+				C6F873252B0C7E410000E482 /* SwiftuiSubView.swift */,
+				C6F873282B0C8CE20000E482 /* LoginScreen.swift */,
+				C6F8732C2B0C959E0000E482 /* ImagePicker.swift */,
+				C6F873302B0CAE1B0000E482 /* UIKitSampleSubView.xib */,
+				C6F873342B0CAFB90000E482 /* UIKitSampleSubView.swift */,
+				C6F873322B0CAEBD0000E482 /* UIKitToSwiftUISubView.swift */,
+				C6F8732E2B0C97030000E482 /* ContentView.swift */,
+				C6F8732A2B0C8D780000E482 /* LoginModel.swift */,
 				C6F873172B0C7E050000E482 /* Main.storyboard */,
 				C6F8731A2B0C7E060000E482 /* Assets.xcassets */,
 				C6F8731C2B0C7E060000E482 /* LaunchScreen.storyboard */,
@@ -125,6 +149,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6F873312B0CAE1B0000E482 /* UIKitSampleSubView.xib in Resources */,
 				C6F8731E2B0C7E060000E482 /* LaunchScreen.storyboard in Resources */,
 				C6F8731B2B0C7E060000E482 /* Assets.xcassets in Resources */,
 				C6F873192B0C7E050000E482 /* Main.storyboard in Resources */,
@@ -138,9 +163,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C6F873352B0CAFB90000E482 /* UIKitSampleSubView.swift in Sources */,
 				C6F873162B0C7E040000E482 /* ViewController.swift in Sources */,
+				C6F8732B2B0C8D780000E482 /* LoginModel.swift in Sources */,
+				C6F8732F2B0C97030000E482 /* ContentView.swift in Sources */,
 				C6F873122B0C7E040000E482 /* AppDelegate.swift in Sources */,
+				C6F8732D2B0C959E0000E482 /* ImagePicker.swift in Sources */,
+				C6F873332B0CAEBD0000E482 /* UIKitToSwiftUISubView.swift in Sources */,
 				C6F873142B0C7E040000E482 /* SceneDelegate.swift in Sources */,
+				C6F873262B0C7E410000E482 /* SwiftuiSubView.swift in Sources */,
+				C6F873292B0C8CE20000E482 /* LoginScreen.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
